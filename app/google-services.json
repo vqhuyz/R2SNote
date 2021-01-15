@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217610328841",
+    "firebase_url": "https://r2snote-4a792-default-rtdb.firebaseio.com",
+    "project_id": "r2snote-4a792",
+    "storage_bucket": "r2snote-4a792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217610328841:android:e735e49e36d80a3bd711d8",
+        "android_client_info": {
+          "package_name": "com.example.r2snote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217610328841-3fdjqd21ta178q63isufrd13g1b7m47g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdCSA99UORY7wCNrK7qsIu0GutJQF-BHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217610328841-3fdjqd21ta178q63isufrd13g1b7m47g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
